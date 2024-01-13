@@ -1,4 +1,5 @@
-# pollinator-multinomial
+# pollinator-multinomial [![](https://badgen.net/badge/DOI/10.1038%2Fs41467-020-17894-y/red)](https://doi.org/10.1038/s41467-020-17894-y)
+
 Multinomial logistic regression for the analysis of plant-pollinator interaction dynamics.
 
 ## How to cite
